@@ -1,0 +1,12 @@
+.Log {
+    background-color:seagreen;
+    color: white;
+    font-weight: 300;
+    margin: 6px 0;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.Log .p {
+    font-weight: 500;
+}
